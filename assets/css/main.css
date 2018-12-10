@@ -237,7 +237,7 @@ a:after {
 }
 
 .skills-logo {
-	padding-bottom: 50px;
+	padding-bottom: 0;
 }
 
 .react {
@@ -342,4 +342,12 @@ a:after {
 
 sm {
 	font-size: 12px;
+}
+
+.skill-name {
+	margin: 10px auto;
+}
+
+.skill-postgres {
+	margin: 0;
 }
