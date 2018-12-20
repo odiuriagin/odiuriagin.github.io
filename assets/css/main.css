@@ -104,7 +104,7 @@ a:after {
 */
 
 #author-name {
-	display: block;
+	display: none;
     position: absolute;
     top: 13px;
 	left: 150px;
